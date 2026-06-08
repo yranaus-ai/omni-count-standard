@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>omni Count</title>
+  <title>Omni Count</title>
 
   <style>
     body {
